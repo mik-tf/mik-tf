@@ -16,7 +16,7 @@ We are currently working on the second book called [_Phenomenology and the Geome
 
 ## GitHub Statistics
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mik-TF&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](stats/overview.svg)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mik-TF&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](stats/top-langs.svg)]()
 
